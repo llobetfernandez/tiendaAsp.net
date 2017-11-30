@@ -1,0 +1,3 @@
+﻿------ Operación Compilar iniciada: proyecto: tmoficina, configuración: Debug Any CPU ------
+  tmoficina -> C:\Users\llobetc\Documents\Visual Studio 2015\Projects\tmoficina\tmoficina\bin\tmoficina.dll
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
